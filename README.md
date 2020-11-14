@@ -19,4 +19,4 @@ Why did you choose FinTech as a career path?
 ```
 I forsee this as being a highly lucrative and secure industry to be a part of long term as I pursue my goals. 
 
-![MedakaRiceFish] (https://images.app.goo.gl/Lz8egvFBxngmjFCfA "MEdakaRiceFish")
+![MedakaRiceFish](https://images.app.goo.gl/Lz8egvFBxngmjFCfA "MEdakaRiceFish")

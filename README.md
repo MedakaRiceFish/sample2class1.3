@@ -1,5 +1,7 @@
 # sample2class1.3
-
+# About Me H1
+## About Me H2
+### About Me H3
 ```
 Who are you? What is your background?
 ```
@@ -16,3 +18,5 @@ To no longer "have" to work for a corporation, and be financially free to do wha
 Why did you choose FinTech as a career path?
 ```
 I forsee this as being a highly lucrative and secure industry to be a part of long term as I pursue my goals. 
+
+![MedakaRiceFish] (https://images.app.goo.gl/Lz8egvFBxngmjFCfA "MEdakaRiceFish")
